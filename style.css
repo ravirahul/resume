@@ -316,10 +316,28 @@ animation-name: iconHover;
 }
 
 .contactBox{
-	width: 70%;
+	width: 50%;
 	float: left;
 }
 
+.contactBox2{
+	width: 45%
+	float: left;
+}
+
+#contactQr{
+	height: 100px;
+	width: 100px;
+}
+
+#vcardButton{
+	height: 20px;
+	width: 50px;
+	background-color: black;
+	color: red;
+}
+
+	
 .contactSpan{
 	margin: 8px 0 0 10px;
 	height: 30px;
