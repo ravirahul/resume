@@ -323,16 +323,17 @@ animation-name: iconHover;
 .contactBox2{
 	width: 45%
 	float: left;
+	background-color: skyblue;
 }
 
 #contactQr{
-	height: 100px;
-	width: 100px;
+	height: 300px;
+	width: 300px;
 }
 
 #vcardButton{
-	height: 20px;
-	width: 50px;
+	height: 100px;
+	width: 200px;
 	background-color: black;
 	color: red;
 }
